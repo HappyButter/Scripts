@@ -62,6 +62,5 @@ if (len(sys.argv) > 2):
 h.write("\n};\n\n\n#endif")
 
 
-
 h.close()
 cpp.close()
